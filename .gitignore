@@ -1,0 +1,10 @@
+# This .gitignore file should be placed at the root of your  project
+
+# GoLand IDE setings directory
+.idea/
+
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
